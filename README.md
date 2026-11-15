@@ -1,8 +1,8 @@
-# Memory Lane
+# Alibi
 Create interactive timelines, uncover connections between memories, and generate meaningful year-in-review recaps that bring your life’s moments together.
 Turn your everyday moments into meaningful stories.
 
-Memory-Lane is an AI-powered digital memory journal that transforms your photos, notes, and everyday experiences into personalized visual stories. Capture the moments that matter, rediscover forgotten memories, and see your life unfold through intelligent timelines, emotional posts, support, and beautifully generated recaps.
+Alibi is an AI-powered digital memory journal that transforms your photos, notes, and everyday experiences into personalized visual stories. Capture the moments that matter, rediscover forgotten memories, and see your life unfold through intelligent timelines, emotional posts, support, and beautifully generated recaps.
 
 AI Memory Journal goes beyond traditional journaling by connecting the pieces of your life; helping you uncover patterns, revisit meaningful experiences, and preserve your personal story in a more visual and engaging way.
 
