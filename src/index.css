@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Caveat:wght@500;600&family=Gochi+Hand&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream-50 font-body text-ink-800 antialiased;
+  }
+}
+
+@layer utilities {
+  .scrapbook-tilt-1 { transform: rotate(-2deg); }
+  .scrapbook-tilt-2 { transform: rotate(1.5deg); }
+  .scrapbook-tilt-3 { transform: rotate(-1deg); }
+  .scrapbook-tilt-4 { transform: rotate(2.5deg); }
+}
+
+/* Dotted notebook paper texture */
+.paper-dots {
+  background-image: radial-gradient(rgba(74, 63, 54, 0.10) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
